@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #252850;
+}
+
+#form-body{
+    background-color: #3b3b3b;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 33%;
+    color: aliceblue;
+}
+
+h3{
+    color: aliceblue;
+    padding: 5px;
+}
